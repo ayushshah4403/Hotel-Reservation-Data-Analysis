@@ -1,0 +1,54 @@
+Business Problem
+
+In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels' primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
+The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
+
+﻿
+Assumptions
+1. No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used.
+2. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner.
+3. There are no unanticipated negatives to the hotel employing any advised technique. 4. The hotels are not currently using any of the suggested solutions.﻿﻿
+4. The hotels are not currently using any of the suggested solutions.
+5. The biggest factor affecting the effectiveness of earning income is booking cancellations.
+6. Cancellations result in vacant rooms for the booked length of time.
+7. Clients make hotel reservations the same year they make cancellations.
+
+Research Question
+1. What are the variables that affect hotel reservation cancellations?
+2. How can we make hotel reservations cancellations better?
+3. How will hotels be assisted in making pricing and promotional decisions?
+
+Business Problem:
+
+In recent years, City Hotels and Resort Hotels struggle with high cancellation rates, which negatively impacted their revenue and efficiency As a result, hotels have several issues, such as declining revenue due to vacant rooms and declining hotel room utilization And it’s become their primary goal. This report aims to provide a thorough analysis of hotel booking cancellations and other factors that can affect their business and annual revenue generation. By providing professional advice and recommendations to tackle the problem of high cancellation rates, both City Hotels and Resort Hotels can increase revenue and efficiency, and ensure better utilization of their hotel rooms.
+
+Assumptions:
+
+To ensure the validity of the report, the following assumptions have been made:
+
+Unusual occurrences between 2015 and 2017 will not have a substantial impact on the data used.
+The information used in this report is current and relevant for analysis.
+There are no unanticipated negative consequences to the hotels implementing the recommended solutions.
+The hotels are not currently using any of the suggested solutions.
+Booking cancellations are the biggest factor affecting the effectiveness of revenue generation.
+Cancellations result in vacant rooms for the duration of the booking.
+Clients make hotel reservations and cancellations in the same year.
+Research Questions:
+
+This report aims to answer the following research questions:
+
+What are the variables that affect hotel reservation cancellations?
+How can hotel reservation cancellations be reduced?
+How can hotels make informed pricing and promotional decisions to increase revenue?
+Key Findings:
+
+The variables that affect hotel reservation cancellations include the type of reservation, the time of the year, and the cancellation policy.
+To reduce hotel reservation cancellations, hotels can offer incentives to encourage guests to keep their reservations or implement stricter cancellation policies.
+Hotels can make informed pricing and promotional decisions by analyzing booking trends and adjusting prices accordingly, as well as offering targeted promotions to incentivize bookings.
+Recommendations:
+
+Based on the key findings, the following recommendations are suggested:
+
+City Hotel and Resort Hotel should analyze their booking data to identify trends in reservation cancellations and adjust their cancellation policies accordingly.
+To reduce reservation cancellations, hotels can offer incentives such as discounts or special perks to guests who keep their reservations.
+Hotels should also consider implementing dynamic pricing strategies to adjust prices based on demand, as well as offering targeted promotions to incentivize bookings during slower periods.
